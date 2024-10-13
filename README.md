@@ -5,5 +5,5 @@ Join a community of dog enthusiasts and explore fascinating dogs in your area! O
 <div style=" disply:flex; justify-content: center; margin: 0 auto">
 <img src="HTML5_logo_and_wordmark.svg.png" alt="Description" width="80px" >
 <img src="CSS-Logo.png" alt="Description" width="130px" >
-<img src="Bootstrap_logo.svg.png" alt="Description" width="130px" >
+<img src="Bootstrap_logo.svg.png" alt="Description" width="80px" >
 </div>
