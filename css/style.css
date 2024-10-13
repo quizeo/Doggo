@@ -50,3 +50,8 @@
 .whiter{
   color: #ffffffc0 !important; 
 }
+
+@media only screen
+and (max-width : 1000px) {
+.cons_edit{ margin-bottom: 30px;}
+}
